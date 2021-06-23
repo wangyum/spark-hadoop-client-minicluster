@@ -15,7 +15,7 @@
     <yarn.version>${hadoop.version}</yarn.version>
     <scala.version>2.12.8</scala.version>
     <scala.binary.version>2.12</scala.binary.version>
-    <jetty.version>9.4.12.v20180830</jetty.version>
+    <jetty.version>9.4.41.v20210516</jetty.version>
   </properties>
   <dependencies>
     <!--<dependency>-->
